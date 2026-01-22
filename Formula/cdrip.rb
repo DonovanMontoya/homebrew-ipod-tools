@@ -2,7 +2,7 @@ class Cdrip < Formula
   desc "CLI to read/convert AIFF files to FLAC"
   homepage "https://github.com/DonovanMontoya/CD-Rip"
   url "https://github.com/DonovanMontoya/cdrip/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "052186b1a0289005d3f019a64c15d5569fac7fd7794a5d692543f706065081c0"
+  sha256 "8f38479cb96befaa9fdad57a014f787eebca805b1da6caecf0c748ba80915900"
   license "MIT"
 
   depends_on "rust" => :build
